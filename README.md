@@ -3,7 +3,7 @@
 
 
 ### Features
-- This is little Web aplication CRUD
+- This is little Web application CRUD
 - You can change the parts of the code in the path src / App.jsx
 
 ### Install
